@@ -1,0 +1,21 @@
+cavs
+====
+
+Pipelines for NParks/CAVS
+
+For bacterial analysis
+
+database
+========
+generate_download_genbank_db_pipeline.py
+generate_download_refseq_db_pipeline.py
+
+
+bacteria
+========
+generate_deploy_and_qc_pipeline.py
+generate_ilm_deploy_and_qc_pipeline.py
+generate_ont_16S_rRNA_blast_analysis_pipeline.py
+generate_ont_covid19_analysis_pipeline.py
+generate_ont_deploy_and_qc_pipeline.py
+
